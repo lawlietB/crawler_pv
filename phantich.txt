@@ -1,0 +1,27 @@
+https://phongvu.vn/may-tinh-ban.cat
+https://phongvu.vn/laptop.cat
+https://phongvu.vn/linh-kien-may-tinh.cat
+https://phongvu.vn/man-hinh-may-tinh.cat
+https://phongvu.vn/tivi.cat
+https://phongvu.vn/chuot-ban-phim-ban-di.cat
+https://phongvu.vn/dien-thoai-may-tinh-bang.cat
+https://phongvu.vn/thiet-bi-am-thanh.cat
+https://phongvu.vn/thiet-bi-van-phong.cat
+https://phongvu.vn/phu-kien.cat
+
+get link
++ get nextpage: "next i-next"
++ get product "grid-view-item"
+
+
+product
++ Name: <h1 class="detail-product-name
++ get image :<img> (class) detail-gallery-img-items
++ Price: <span class="detail-product-final-price">1.377.000 ₫</span>
++ Config:<tr>
+                <th class="attribute-label">Thời gian Bảo hành:</th>
+                <td class="attribute-value">12</td>
+            </tr>
+
+==> name,price, image, config
+==>name, price, image1:image2,c
